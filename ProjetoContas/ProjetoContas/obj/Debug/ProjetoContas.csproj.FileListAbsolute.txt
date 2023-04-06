@@ -1,0 +1,12 @@
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\bin\Debug\BDcontas.mdf
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\bin\Debug\BDcontas_log.ldf
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\bin\Debug\ProjetoContas.exe.config
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\bin\Debug\ProjetoContas.exe
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\bin\Debug\ProjetoContas.pdb
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csprojAssemblyReference.cache
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.frmPrincipal.resources
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.Properties.Resources.resources
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csproj.GenerateResource.cache
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.exe
+D:\Desenvolvimento de Sistemas\ProjetoContas\ProjetoContas\ProjetoContas\obj\Debug\ProjetoContas.pdb
